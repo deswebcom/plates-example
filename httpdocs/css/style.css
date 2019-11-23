@@ -1,0 +1,14 @@
+body {
+  background-color: #f5f5f5;
+  color: #066;
+  margin: 1em 2em;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  max-width: 900px;
+}
+footer {
+  background-color: #ffc;
+  padding: 10px;
+}
